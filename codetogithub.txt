@@ -1,0 +1,10 @@
+#!/bin/bash
+
+
+#Addition of two number.
+
+x=$1
+y=$2
+
+z=$(( $x + $b ))
+echo "$z"
