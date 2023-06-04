@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#hello thhe changes
-
 # Get the name of the file to search for.
 file_name=$1
 
