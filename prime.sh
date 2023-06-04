@@ -1,7 +1,4 @@
-#!/bin/bash
-
-echo "enter number:"
-read n 
+#!/bin/bash 
 
 for ((i=2 ; i<=$n/2 ; i++))
 do 
