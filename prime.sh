@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#to know a number is a prime number or not
 echo "enter number:"
 read n 
 
