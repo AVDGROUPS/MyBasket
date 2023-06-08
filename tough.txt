@@ -1,0 +1,11 @@
+kalu,7907,2022-feb-27,nkp,tcs,88000
+Balu,777,2002-apr-27,ctc,tech
+Lalu,7707,2021-mar-23,bbsr,tcs,199000
+Malu,8899,2023-jul-12,patia,wip,202000
+kalu,777,2020-feb-20,nkp,tcs
+Palu,3411,2002-jan-13,vihar,sbi,88000
+kalu,2201,1999-feb-05,delhi,wip,424234
+kalu,7770,1999-aug-27,Odisha,tcs
+Talu,7757,2012-nov-17,nkp,micr,17600
+Lalu,777,2021-dec-12,rkl,goog,52342
+Aluu,787,2022-aug-27,vihar,wip
